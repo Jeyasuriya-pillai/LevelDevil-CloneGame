@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: 64942b0d441ea1242b465f74d2e4d745
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1870406943880787518
+    second: ReaAndDeAni_0
+  - first:
+      213: -7324784510687342524
+    second: ReaAndDeAni_1
+  - first:
+      213: 8006765433257500485
+    second: ReaAndDeAni_2
+  - first:
+      213: 8141162876143121829
+    second: ReaAndDeAni_3
+  - first:
+      213: -1084647263098653071
+    second: ReaAndDeAni_4
+  - first:
+      213: -2608488986033408181
+    second: ReaAndDeAni_5
+  - first:
+      213: -1988567008415103158
+    second: ReaAndDeAni_6
+  - first:
+      213: 2398805106471340467
+    second: ReaAndDeAni_7
+  - first:
+      213: 8737225794795218739
+    second: ReaAndDeAni_8
+  - first:
+      213: 5987650363459124712
+    second: ReaAndDeAni_9
+  - first:
+      213: -6653932623782381271
+    second: ReaAndDeAni_10
+  - first:
+      213: -5965315791872257033
+    second: ReaAndDeAni_11
+  - first:
+      213: -7847054310922237373
+    second: ReaAndDeAni_12
+  - first:
+      213: -6104979411656219266
+    second: ReaAndDeAni_13
+  - first:
+      213: -7591326221296619909
+    second: ReaAndDeAni_14
+  - first:
+      213: 3794280963884299991
+    second: ReaAndDeAni_15
+  - first:
+      213: 1197655711395893816
+    second: ReaAndDeAni_16
+  - first:
+      213: 8135383153037873428
+    second: ReaAndDeAni_17
+  - first:
+      213: 4556480209624122969
+    second: ReaAndDeAni_18
+  - first:
+      213: 1348992985958903458
+    second: ReaAndDeAni_19
+  - first:
+      213: -5181858890734819155
+    second: ReaAndDeAni_20
+  - first:
+      213: 2546174027617196684
+    second: ReaAndDeAni_21
+  - first:
+      213: 519781270057421777
+    second: ReaAndDeAni_22
+  - first:
+      213: 5194766617616741131
+    second: ReaAndDeAni_23
+  - first:
+      213: -6384368585439301297
+    second: ReaAndDeAni_24
+  - first:
+      213: -5814169809396863950
+    second: ReaAndDeAni_25
+  - first:
+      213: -4731784601350150497
+    second: ReaAndDeAni_26
+  - first:
+      213: -6677336123084086918
+    second: ReaAndDeAni_27
+  - first:
+      213: -8058579397365753369
+    second: ReaAndDeAni_28
+  - first:
+      213: 3655995599570139300
+    second: ReaAndDeAni_29
+  - first:
+      213: 4579244280268318262
+    second: ReaAndDeAni_30
+  - first:
+      213: -5531772380088536159
+    second: ReaAndDeAni_31
+  - first:
+      213: 5451049479709480156
+    second: ReaAndDeAni_32
+  - first:
+      213: 7252040844394264856
+    second: ReaAndDeAni_33
+  - first:
+      213: 1472370648777332198
+    second: ReaAndDeAni_34
+  - first:
+      213: 6517248830214463028
+    second: ReaAndDeAni_35
+  - first:
+      213: -3120322216652434634
+    second: ReaAndDeAni_36
+  - first:
+      213: -2999523835605641126
+    second: ReaAndDeAni_37
+  - first:
+      213: 6646499940768590743
+    second: ReaAndDeAni_38
+  - first:
+      213: -4298549686561631391
+    second: ReaAndDeAni_39
+  - first:
+      213: 7549203221130530518
+    second: ReaAndDeAni_40
+  - first:
+      213: 610263647124573500
+    second: ReaAndDeAni_41
+  - first:
+      213: 3637790507592976983
+    second: ReaAndDeAni_42
+  - first:
+      213: 2018699093330895290
+    second: ReaAndDeAni_43
+  - first:
+      213: -1923876897133327470
+    second: ReaAndDeAni_44
+  - first:
+      213: -2006130368206442914
+    second: ReaAndDeAni_45
+  - first:
+      213: 3308888536554449658
+    second: ReaAndDeAni_46
+  - first:
+      213: -7476874830889560232
+    second: ReaAndDeAni_47
+  - first:
+      213: -991824330196732994
+    second: ReaAndDeAni_48
+  - first:
+      213: 3614396009750938530
+    second: ReaAndDeAni_49
+  - first:
+      213: 8015214744908469144
+    second: ReaAndDeAni_50
+  - first:
+      213: 1435734795197569026
+    second: ReaAndDeAni_51
+  - first:
+      213: -7434236421213573460
+    second: ReaAndDeAni_52
+  - first:
+      213: -6020620515371367218
+    second: ReaAndDeAni_53
+  - first:
+      213: 8622904659605372066
+    second: ReaAndDeAni_54
+  - first:
+      213: 5422517457232024090
+    second: ReaAndDeAni_55
+  - first:
+      213: 8234528953912081829
+    second: ReaAndDeAni_56
+  - first:
+      213: -1342918759937290675
+    second: ReaAndDeAni_57
+  - first:
+      213: -3476463768471450749
+    second: ReaAndDeAni_58
+  - first:
+      213: -8393890507986008331
+    second: ReaAndDeAni_59
+  - first:
+      213: -2088741433212876902
+    second: ReaAndDeAni_60
+  - first:
+      213: 6820404484296872888
+    second: ReaAndDeAni_61
+  - first:
+      213: 7409216698646568447
+    second: ReaAndDeAni_62
+  - first:
+      213: -3573200402046448815
+    second: ReaAndDeAni_63
+  - first:
+      213: -7575182668095729741
+    second: ReaAndDeAni_64
+  - first:
+      213: 6424851055518656832
+    second: ReaAndDeAni_65
+  - first:
+      213: -6007507684224714616
+    second: ReaAndDeAni_66
+  - first:
+      213: -4383531082581027531
+    second: ReaAndDeAni_67
+  - first:
+      213: 1707588414752837927
+    second: ReaAndDeAni_68
+  - first:
+      213: 7343900147240477131
+    second: ReaAndDeAni_69
+  - first:
+      213: -740015792069265835
+    second: ReaAndDeAni_70
+  - first:
+      213: -1557319766838723864
+    second: ReaAndDeAni_71
+  - first:
+      213: 7183781371232325879
+    second: ReaAndDeAni_72
+  - first:
+      213: -2924817066721630205
+    second: ReaAndDeAni_73
+  - first:
+      213: -3015677631718711290
+    second: ReaAndDeAni_74
+  - first:
+      213: -4314038745015426568
+    second: ReaAndDeAni_75
+  - first:
+      213: 7870582874031827986
+    second: ReaAndDeAni_76
+  - first:
+      213: -8802114879456447624
+    second: ReaAndDeAni_77
+  - first:
+      213: -3732764304323670342
+    second: ReaAndDeAni_78
+  - first:
+      213: 3464248868085731015
+    second: ReaAndDeAni_79
+  - first:
+      213: -1124330878142985165
+    second: ReaAndDeAni_80
+  - first:
+      213: -4021075103548487502
+    second: ReaAndDeAni_81
+  - first:
+      213: 9132149456878215942
+    second: ReaAndDeAni_82
+  - first:
+      213: 9011049331587252140
+    second: ReaAndDeAni_83
+  - first:
+      213: 5012192084500984192
+    second: ReaAndDeAni_84
+  - first:
+      213: 7635015142474207053
+    second: ReaAndDeAni_85
+  - first:
+      213: 1961229822507466521
+    second: ReaAndDeAni_86
+  - first:
+      213: 8233599032744038436
+    second: ReaAndDeAni_87
+  - first:
+      213: 334938302257931049
+    second: ReaAndDeAni_88
+  - first:
+      213: -7202063523730065752
+    second: ReaAndDeAni_89
+  - first:
+      213: -253010427828326569
+    second: ReaAndDeAni_90
+  - first:
+      213: -2052930293446390881
+    second: ReaAndDeAni_91
+  - first:
+      213: 4368812909683068258
+    second: ReaAndDeAni_92
+  - first:
+      213: 3723132116370577484
+    second: ReaAndDeAni_93
+  - first:
+      213: 3420405602957534837
+    second: ReaAndDeAni_94
+  - first:
+      213: -1188205331763559324
+    second: ReaAndDeAni_95
+  - first:
+      213: -8502814960156702692
+    second: ReaAndDeAni_96
+  - first:
+      213: -3956087789866248819
+    second: ReaAndDeAni_97
+  - first:
+      213: 4557727936269754614
+    second: ReaAndDeAni_98
+  - first:
+      213: -3491216734560140993
+    second: ReaAndDeAni_99
+  - first:
+      213: -2824059448393277980
+    second: ReaAndDeAni_100
+  - first:
+      213: -9155994090381524078
+    second: ReaAndDeAni_101
+  - first:
+      213: 5463880694746903493
+    second: ReaAndDeAni_102
+  - first:
+      213: 3211377750007284937
+    second: ReaAndDeAni_103
+  - first:
+      213: 5399240790069033697
+    second: ReaAndDeAni_104
+  - first:
+      213: -6370436802295899143
+    second: ReaAndDeAni_105
+  - first:
+      213: 7158128277587591616
+    second: ReaAndDeAni_106
+  - first:
+      213: -4537820570927312550
+    second: ReaAndDeAni_107
+  - first:
+      213: -8050188481517017271
+    second: ReaAndDeAni_108
+  - first:
+      213: -1481473406937580840
+    second: ReaAndDeAni_109
+  - first:
+      213: -704312074998423902
+    second: ReaAndDeAni_110
+  - first:
+      213: 1383280948338862554
+    second: ReaAndDeAni_111
+  - first:
+      213: 7968669404192243819
+    second: ReaAndDeAni_112
+  - first:
+      213: -2219534265474271065
+    second: ReaAndDeAni_113
+  - first:
+      213: 3906829221293698178
+    second: ReaAndDeAni_114
+  - first:
+      213: -5496217634536218321
+    second: ReaAndDeAni_115
+  - first:
+      213: -1060765835893252272
+    second: ReaAndDeAni_116
+  - first:
+      213: -7158275785882682667
+    second: ReaAndDeAni_117
+  - first:
+      213: 262802917175995580
+    second: ReaAndDeAni_118
+  - first:
+      213: -829833050198290472
+    second: ReaAndDeAni_119
+  - first:
+      213: -4942019805948184680
+    second: ReaAndDeAni_120
+  - first:
+      213: 6516120808940753049
+    second: ReaAndDeAni_121
+  - first:
+      213: -7431751392387547567
+    second: ReaAndDeAni_122
+  - first:
+      213: -2068715141041281998
+    second: ReaAndDeAni_123
+  - first:
+      213: -3676203166921445218
+    second: ReaAndDeAni_124
+  - first:
+      213: 3095997345078078832
+    second: ReaAndDeAni_125
+  - first:
+      213: 222366861468366595
+    second: ReaAndDeAni_126
+  - first:
+      213: 5194971884857180176
+    second: ReaAndDeAni_127
+  - first:
+      213: -4101490213616376023
+    second: ReaAndDeAni_128
+  - first:
+      213: -7896095557361177527
+    second: ReaAndDeAni_129
+  - first:
+      213: 5864421239426165748
+    second: ReaAndDeAni_130
+  - first:
+      213: 7677952873491688123
+    second: ReaAndDeAni_131
+  - first:
+      213: -4034050687270387055
+    second: ReaAndDeAni_132
+  - first:
+      213: -4781375771522660047
+    second: ReaAndDeAni_133
+  - first:
+      213: 6746922648798149
+    second: ReaAndDeAni_134
+  - first:
+      213: -9038186591619255106
+    second: ReaAndDeAni_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReaAndDeAni_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 611
+        width: 130
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337262d819cd04970800000000000000
+      internalID: 8737225794795218739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 613
+        width: 147
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9297110688b78a3a0800000000000000
+      internalID: -6653932623782381271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 613
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f31d6494e0f63da0800000000000000
+      internalID: -5965315791872257033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 613
+        width: 165
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a48400ea9a91390800000000000000
+      internalID: -7847054310922237373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 613
+        width: 155
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7568271291c64ba0800000000000000
+      internalID: -6104979411656219266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_15
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 612
+        width: 165
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6b9560f6ef7a430800000000000000
+      internalID: 3794280963884299991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_16
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 613
+        width: 133
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83258f8268dee9010800000000000000
+      internalID: 1197655711395893816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_17
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 613
+        width: 130
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4111584efdfa6e070800000000000000
+      internalID: 8135383153037873428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_18
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 613
+        width: 130
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9564eb00c9edb3f30800000000000000
+      internalID: 4556480209624122969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 214
+        width: 142
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636e129396ebc8f30800000000000000
+      internalID: 4579244280268318262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 215
+        width: 114
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3718234523b33b0800000000000000
+      internalID: -5531772380088536159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 213
+        width: 180
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd45923fe9406ab40800000000000000
+      internalID: 5451049479709480156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_33
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 214
+        width: 182
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8197eba99bc64a460800000000000000
+      internalID: 7252040844394264856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 214
+        width: 144
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e53cdf74be17a50800000000000000
+      internalID: 6517248830214463028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_36
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 213
+        width: 154
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6331ca3e97362b4d0800000000000000
+      internalID: -3120322216652434634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_37
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 213
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a589863b6fc8f56d0800000000000000
+      internalID: -2999523835605641126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_38
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 213
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79baa214b7c1d3c50800000000000000
+      internalID: 6646499940768590743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReaAndDeAni_39
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 212
+        width: 196
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1639023b5db7854c0800000000000000
+      internalID: -4298549686561631391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ed132190a4b8517428dd5e91888ad685
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":130.0,"y":210.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ReaAndDeAni_0: -1870406943880787518
+      ReaAndDeAni_1: -7324784510687342524
+      ReaAndDeAni_10: -6653932623782381271
+      ReaAndDeAni_11: -5965315791872257033
+      ReaAndDeAni_12: -7847054310922237373
+      ReaAndDeAni_13: -6104979411656219266
+      ReaAndDeAni_14: -7591326221296619909
+      ReaAndDeAni_15: 3794280963884299991
+      ReaAndDeAni_16: 1197655711395893816
+      ReaAndDeAni_17: 8135383153037873428
+      ReaAndDeAni_18: 4556480209624122969
+      ReaAndDeAni_19: 1348992985958903458
+      ReaAndDeAni_2: 8006765433257500485
+      ReaAndDeAni_20: -5181858890734819155
+      ReaAndDeAni_21: 2546174027617196684
+      ReaAndDeAni_22: 519781270057421777
+      ReaAndDeAni_23: 5194766617616741131
+      ReaAndDeAni_24: -6384368585439301297
+      ReaAndDeAni_25: -5814169809396863950
+      ReaAndDeAni_26: -4731784601350150497
+      ReaAndDeAni_27: -6677336123084086918
+      ReaAndDeAni_28: -8058579397365753369
+      ReaAndDeAni_29: 3655995599570139300
+      ReaAndDeAni_3: 8141162876143121829
+      ReaAndDeAni_30: 4579244280268318262
+      ReaAndDeAni_31: -5531772380088536159
+      ReaAndDeAni_32: 5451049479709480156
+      ReaAndDeAni_33: 7252040844394264856
+      ReaAndDeAni_34: 1472370648777332198
+      ReaAndDeAni_35: 6517248830214463028
+      ReaAndDeAni_36: -3120322216652434634
+      ReaAndDeAni_37: -2999523835605641126
+      ReaAndDeAni_38: 6646499940768590743
+      ReaAndDeAni_39: -4298549686561631391
+      ReaAndDeAni_4: -1084647263098653071
+      ReaAndDeAni_5: -2608488986033408181
+      ReaAndDeAni_6: -1988567008415103158
+      ReaAndDeAni_7: 2398805106471340467
+      ReaAndDeAni_8: 8737225794795218739
+      ReaAndDeAni_9: 5987650363459124712
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
